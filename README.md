@@ -2,11 +2,11 @@
 <h1 align="center">Hi there 👋, I'm Eros Kuikel</h1>
 <h3 align="center">An enthusiastic Electrical Engineering Student with a passion for Wireless systems and signal processing.</h3>
 
-- 🌱 I’m currently learning **Simulink**
+- 🌱 I’m currently learning **HFSS**
 
-- 👯 I’m looking to collaborate on **Electronics Projects**
+- 👯 I’m looking to collaborate on **Wireless Projects**
 
-- 💬 Ask me about **Electronics and Signal Processing**
+- 💬 Ask me about **Wireless systems and Signal Processing**
 
 - 📫 How to reach me **ek3296@nyu.edu**
 
