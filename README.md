@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Eros Kuikel</h1>
-<h3 align="center">An enthusiastic Electrical Engineering Student with a passion for Electronics, Signal Processing and Machine Learning.</h3>
+<h3 align="center">An enthusiastic Electrical Engineering Student with a passion for Wireless systems and signal processing.</h3>
 
 - 🌱 I’m currently learning **Simulink**
 
